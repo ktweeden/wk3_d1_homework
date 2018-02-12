@@ -171,7 +171,7 @@ VALUES ('Darren Breen');
 
 -- Jarrod Bennie, has decided to hijack our movie evening, Remove him from the
 -- table of people.
-DELETE FROM people WHERE name = 'Bennie';
+DELETE FROM people WHERE name = 'Jarrod Bennie';
 
 -- The cinema has just heard that they will be holding an exclusive midnight
 -- showing of 'Guardians of the Galaxy 2'!! Create a new entry in the 'movies'
